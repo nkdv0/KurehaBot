@@ -1,0 +1,2 @@
+# KurehaBot
+Kureha Discord Bot
