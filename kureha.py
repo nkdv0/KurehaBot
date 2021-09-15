@@ -7,7 +7,7 @@ nest_asyncio.apply()
 kver = '0.1'
 kverdt = '\n9/15/21'
 
-TOKEN='YourToken'
+TOKEN='Token'
 
 client = discord.Client()
 
