@@ -5,7 +5,7 @@ import nest_asyncio #https://github.com/erdewit/nest_asyncio
 
 logging.basicConfig(level=logging.INFO)
 nest_asyncio.apply()
-kver = '0.1'
+kver = 'A0.1'
 kverdt = '9/15/21'
 
 TOKEN=''
