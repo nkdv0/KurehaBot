@@ -8,7 +8,7 @@ nest_asyncio.apply()
 kver = '0.1'
 kverdt = '\n9/15/21'
 
-TOKEN='ODQ1NzYyNDU1MDg1OTA3OTkx.YKlrqg.6HE2C7ZS0lgmyK81SZ3dAXxCcv0'
+TOKEN=''
 client = discord.Client()
 
 @client.event
