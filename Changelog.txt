@@ -1,0 +1,10 @@
+CHANGELOG
+v0.2.0a
+10/2/21
+~~~~~~~~~~~
+
++ Added command 'kdgit' #check the commands file for more information
++ Added command alias 'kdc' for command 'kdcommands'
+- Removed cringey special commands
+~ Changed commands file type to text file
+~ Fixed typos in commands file (hopefully thats all of them lmao)

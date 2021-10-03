@@ -1,0 +1,13 @@
+# Kureha Bot commands
+kureha version v0.2.0a
+10/2/21
+
+Prefix is 'kd'
+
+'kdver'/'kdversion' - Shows Kureha version and version date
+
+'kdhelp' - sends you to the github home page
+
+'kdcommands' - sends you here to this commands file on github
+
+'kdgit' - sends you to the github home page
