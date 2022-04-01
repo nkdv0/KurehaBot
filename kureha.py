@@ -32,15 +32,12 @@ async def on_message(message):
          
     elif message.content == 'kdcommands' or message.content == 'kdc':
         await message.channel.send('https://github.com/nkdv0/KurehaBot/blob/main/Commands')
+        
+    elif message.content == 'kdgit':
+        await message.channel.send('https://github.com/nkdv0/KurehaBot')
     
     elif message.content.startswith('kd'):
         await message.channel.send('Unknown command! Try kdhelp or kdcommands!')
-        
-    elif message.contet == 'kdgit':
-        await message.channel.send('https://github.com/nkdv0/KurehaBot')
-        
-    
-        
     else:
         return
     
